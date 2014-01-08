@@ -37,3 +37,4 @@ domains = [
 Licentie:
 - Niet jatten zonder bronvermelding. Graag jatten met bronvermelding.
 - Gebruiken op eigen verantwoordelijkheid
+- mijndomein.nl is op geen enkele wijze verbonden aan dit script. Voor verzoeken, vragen en klachten over dit script moet je niet bij hun zijn.
