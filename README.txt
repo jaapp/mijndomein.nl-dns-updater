@@ -12,7 +12,7 @@ Gebruiksaanwijzing:
 2. Pas dnsrecords.config aan.
 	2a. Vul jouw gebruikersnaam + wachtwoord in.
 	2b. Configureer alle domeinen en subdomeinen waarvan je wilt dat entries worden bijgewerkt.
-3. Start het script vervolgens met 'python update_dns_records.py' om te testen.
+3. Start het script vervolgens met 'python mijndomein.nl-dns-updater.py' om te testen.
 4. Voeg dit script toe aan je crontab als je tevreden bent over het resultaat.
 
 Debug tips:
