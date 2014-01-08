@@ -16,7 +16,7 @@ username = config['username']
 password = config['password']
 cnt = 0
 
-# Procedure om screenshots op te slaan van de headless browsert. Voegt een volgnummer toe aan de bestandsnaam
+# Procedure om screenshots op te slaan. Voegt een volgnummer toe aan de bestandsnaam
 def screenshot(descr):
 	global cnt
 	global driver

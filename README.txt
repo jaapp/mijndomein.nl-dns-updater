@@ -8,7 +8,7 @@ python (sudo apt-get install python)
 selenium (sudo pip install selenium)
 
 Gebruiksaanwijzing:
-1. Maakt eerst een backup van je DNS entries op mijndomein.nl(bijvoorbeeld een screenshot). Je weet maar nooit...
+1. Maak eerst een backup van je DNS entries op mijndomein.nl(bijvoorbeeld een screenshot). Je weet maar nooit...
 2. Pas dnsrecords.config aan.
 	2a. Vul jouw gebruikersnaam + wachtwoord in.
 	2b. Configureer alle domeinen en subdomeinen waarvan je wilt dat entries worden bijgewerkt.
