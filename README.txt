@@ -15,6 +15,8 @@ Gebruiksaanwijzing:
 3. Start het script vervolgens met 'python mijndomein.nl-dns-updater.py' om te testen.
 4. Voeg dit script toe aan je crontab als je tevreden bent over het resultaat.
 
+Let op: De DNS entries voor de subdomeinen moeten al bestaan. Dit script maakt geen nieuwe entries aan.
+
 Debug tips:
 Voor elke afzonderlijke actie(denk aan: inloggen, klikken op een link, gegevens invoeren) wordt er een screenshot opgeslagen. Mocht het script falen(omdat de mijndomein.nl dashboard is gewijzigd) dan kun je dmv deze screenshots bepalen waar het mis gaat.
 
